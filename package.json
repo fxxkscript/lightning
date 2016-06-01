@@ -1,14 +1,14 @@
 {
-  "name": "aria2",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "lightning",
+  "version": "0.0.1",
+  "description": "An aria2 desktop app for easy use",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
+    "url": "git+https://github.com/rayqian/lightning"
   },
   "keywords": [
     "Electron",
@@ -19,9 +19,9 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
+    "url": "https://github.com/rayqian/lightning/issues"
   },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "homepage": "https://github.com/rayqian/lightning",
   "devDependencies": {
     "electron-prebuilt": "^1.2.0",
     "electron-rebuild": "^1.1.5"
